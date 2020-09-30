@@ -25,7 +25,7 @@ Current Progress:
         - [ ] 14
     - [ ] HPudOdP
         - [x] 01
-        - [ ] 02 (W.I.P.)
+        - [x] 02
         - [ ] 03
         - [ ] 04
         - [ ] 05
