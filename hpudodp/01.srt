@@ -6,7 +6,7 @@ Untertitel: unknown6656
 
 2
 00:00:13,021 --> 00:00:22,087
-🎵 Metallica - All Nightmare Long 🎵
+{\an8}🎵 Metallica - All Nightmare Long 🎵
 
 3
 00:00:22,092 --> 00:00:26,380
@@ -19,7 +19,7 @@ Part 01
 
 5
 00:00:26,405 --> 00:00:37,655
-🎵 Metallica - All Nightmare Long 🎵
+{\an8}🎵 Metallica - All Nightmare Long 🎵
 
 6
 00:00:45,045 --> 00:00:46,045
@@ -27,7 +27,7 @@ Part 01
 
 7
 00:00:56,265 --> 00:01:08,051
-🎵 Jürgen Drews - Ein Bett im Kornfeld 🎵
+{\an8}🎵 Jürgen Drews - Ein Bett im Kornfeld 🎵
 
 8
 00:01:08,086 --> 00:01:11,182
@@ -246,7 +246,7 @@ wollt', könnt' ich nicht schneller laufen als du.
 
 60
 00:02:54,692 --> 00:02:59,250
-🎵
+{\an8}🎵
 
 61
 00:03:07,596 --> 00:03:10,357
@@ -299,7 +299,7 @@ Harry: Keine Ahnung, das war wie so eine Art Anschlag.
 
 73
 00:03:23,331 --> 00:03:35,882
-🎵 Inception OST - Half Remebered Dream 🎵
+{\an8}🎵 Inception OST - Half Remebered Dream 🎵
 
 74
 00:03:25,872 --> 00:03:27,666
@@ -430,7 +430,7 @@ Harry: Und jetzt bist du dran!
 
 105
 00:04:38,125 --> 00:04:51,625
-🎵 Vangelis - Chariots Of Fire 🎵
+{\an8}🎵 Vangelis - Chariots Of Fire 🎵
 
 106
 00:04:54,169 --> 00:04:56,299
@@ -446,7 +446,7 @@ Harry: Soo, is' alles wieder drin!
 
 109
 00:05:01,553 --> 00:05:14,162
-🎵 Heaven Shall Burn - Endzeit 🎵
+{\an8}🎵 Heaven Shall Burn - Endzeit 🎵
 
 110
 00:05:07,724 --> 00:05:11,101
@@ -657,7 +657,7 @@ Harry: Seit wann liefern die denn Briefe aus?
 
 158
 00:06:57,500 --> 00:07:26,154
-🎵 The A-Team Theme 🎵
+{\an8}🎵 The A-Team Theme 🎵
 
 159
 00:06:56,982 --> 00:07:00,086
@@ -702,7 +702,7 @@ Vernon: Ahaa!
 
 168
 00:07:29,284 --> 00:07:52,681
-🎵 Mickie Krause - Reiss die Hütte ab! 🎵
+{\an8}🎵 Mickie Krause - Reiss die Hütte ab! 🎵
 
 169
 00:07:33,264 --> 00:07:35,830
@@ -739,7 +739,7 @@ meinen Zettel zu unterschreiben.
 
 177
 00:07:54,945 --> 00:08:12,909
-🎵 Star Wars OST - Jedi Master Revealed 🎵
+{\an8}🎵 Star Wars OST - Jedi Master Revealed 🎵
 
 178
 00:07:56,159 --> 00:07:57,323
@@ -776,7 +776,7 @@ ich einfach 'mal im Sitzen ein.
 
 186
 00:08:16,339 --> 00:08:39,556
-🎵 Star Wars OST - Droid Invasion 🎵
+{\an8}🎵 Star Wars OST - Droid Invasion 🎵
 
 187
 00:08:19,907 --> 00:08:22,944
@@ -891,7 +891,7 @@ Harry: Ich hööööre Tüüüüre.
 
 212
 00:09:19,496 --> 00:09:29,729
-🎵 The A-Team Theme 🎵
+{\an8}🎵 The A-Team Theme 🎵
 
 213
 00:09:26,524 --> 00:09:28,735
@@ -972,7 +972,7 @@ alle 'mal ein Pod-Rennen!
 
 231
 00:10:40,799 --> 00:10:55,802
-🎵 Radeberger Theme 🎵
+{\an8}🎵 Radeberger Theme 🎵
 
 232
 00:10:43,461 --> 00:10:46,825
@@ -996,5 +996,5 @@ Schon immer besonders.
 
 237
 00:10:56,103 --> 00:11:04,831
-🎵 The A-Team Theme 🎵
+{\an8}🎵 The A-Team Theme 🎵
 
