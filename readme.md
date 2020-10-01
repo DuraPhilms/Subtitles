@@ -1,8 +1,7 @@
 # Duraphilms / Coldmirror Subtitles
 This repository contains the subtitle files for all Duraphilms / Coldmirror Videos
 
-Current Progress:
-
+## Current Progress
  - [ ] Coldmirror
     - [ ] HPueS
     - [ ] HPudgPK
@@ -37,3 +36,10 @@ Current Progress:
         - [ ] 11
         - [ ] 12
         - [ ] 13
+
+## Contributing
+ - Naming convention: `/<baseid>/<partnumber>.[srt|vtt]`
+ - `.srt` and `.vtt` must be kept in sync
+ - `.srt` and `.vtt` files **MUST BE ENCODED AS UTF8 WITHOUT BOM**.
+ - Songs should be indicated using the 🎵-smiley.
+ - [TODO]
