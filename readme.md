@@ -4,8 +4,8 @@ This repository contains the subtitle files for all Duraphilms / Coldmirror Vide
 ## Current Progress
  - [ ] Coldmirror
     - [ ] HPueS
-    - [x] HPudgPK
-    - [x] HPudPP
+    - [ ] HPudgPK
+    - [ ] HPudPP
  - [ ] Duraphilms
     - [ ] HPudPvA
         - [ ] 01 (W.I.P.)
