@@ -25,7 +25,7 @@ This repository contains the subtitle files for all Duraphilms / Coldmirror Vide
     - [ ] HPudOdP
         - [x] 01
         - [x] 02
-        - [ ] 03
+        - [ ] 03 (W.I.P.)
         - [ ] 04
         - [ ] 05
         - [ ] 06
@@ -42,4 +42,5 @@ This repository contains the subtitle files for all Duraphilms / Coldmirror Vide
  - `.srt` and `.vtt` must be kept in sync
  - `.srt` and `.vtt` files **MUST BE ENCODED AS UTF8 WITHOUT BOM**.
  - Songs should be indicated using the 🎵-smiley.
+ - Videos should be indicated using the 🎥-smiley.
  - [TODO]
