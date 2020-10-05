@@ -27,9 +27,9 @@ This repository contains the subtitle files for all Duraphilms / Coldmirror Vide
         - [x] 02
         - [ ] 03 (W.I.P.)
         - [ ] 04 (W.I.P.)
-        - [ ] 05
-        - [ ] 06
-        - [ ] 07
+        - [ ] 05 (W.I.P.)
+        - [ ] 06 (W.I.P.)
+        - [ ] 07 (W.I.P.)
         - [ ] 08
         - [ ] 09
         - [ ] 00
