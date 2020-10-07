@@ -102,7 +102,7 @@ Muggle 1: Aaaaah, mein Auge!
 24
 00:01:09,553 --> 00:01:14,097
 Moody: Das war gar nicht meine Absicht.
-Das war nämlich gar nicht unser unser Haus.
+Das ist nämlich gar nicht unser unser Haus.
 
 25
 00:01:14,116 --> 00:01:15,476
