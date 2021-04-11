@@ -36,9 +36,39 @@ This repository contains the subtitle files for all Duraphilms / Coldmirror Vide
         - [ ] 11
         - [ ] 12
         - [ ] 13
+          Duraphilms (English)
+    - [ ] HPudPvA
+        - [ ] 01
+        - [ ] 02
+        - [ ] 03
+        - [ ] 04
+        - [ ] 05
+        - [ ] 06
+        - [ ] 07
+        - [ ] 08
+        - [ ] 09
+        - [ ] 00
+        - [ ] 11
+        - [ ] 12
+        - [ ] 13
+        - [ ] 14
+    - [ ] HPudOdP
+        - [ ] 01 (W.I.P.)
+        - [ ] 02
+        - [ ] 03
+        - [ ] 04
+        - [ ] 05
+        - [ ] 06
+        - [ ] 07
+        - [ ] 08
+        - [ ] 09
+        - [ ] 00
+        - [ ] 11
+        - [ ] 12
+        - [ ] 13
 
 ## Contributing
- - Naming convention: `/<baseid>/<partnumber>.[srt|vtt]`
+ - Naming convention: `/<baseid>/<partnumber>_<2-digit-langcode>.[srt|vtt]`
  - `.srt` and `.vtt` must be kept in sync
  - `.srt` and `.vtt` files **MUST BE ENCODED AS UTF8 WITHOUT BOM**.
  - Songs should be indicated using the 🎵-smiley.
